@@ -36,7 +36,7 @@ Una aplicación web de recetas de cocina desarrollada con **React**, **Vite** y 
 1. Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Marcossaez225/React-App-Recetas-Marcos-Saez.git
 cd react_recipes_app_full
 
     Instalar dependencias:
@@ -64,6 +64,7 @@ react_recipes_app_full/
 ├─ package.json
 ├─ vite.config.js
 └─ README.md
+
 
 🌗 Modo oscuro / Light mode
 
